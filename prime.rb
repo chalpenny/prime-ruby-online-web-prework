@@ -33,4 +33,3 @@ def is_prime?(number)
   # if no number divides it evenly from above, should return true
   true
 end
-
