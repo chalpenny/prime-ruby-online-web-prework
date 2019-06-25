@@ -7,7 +7,6 @@
 # what is the return value of the method?
   #t or f
 
-def prime (is_it_prime)
 
 #prime nums can only be divided by one or itself
   # 2, 19, 67, 181
@@ -34,6 +33,6 @@ def is_prime?(number)
   # if no number divides it evenly from above, should return true
   true
 end
-
+end
 
   
