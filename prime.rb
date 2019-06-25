@@ -20,7 +20,7 @@
 
 
 
-def is_prime?(number)
+def is_prime? (number)
 #writing pseudocode
   # is it a whole number?  Should return false if a decimal
   return false if !number.integer?
