@@ -34,5 +34,3 @@ def is_prime?(number)
   true
 end
 end
-
-  
