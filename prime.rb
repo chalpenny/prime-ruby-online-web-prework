@@ -24,7 +24,7 @@ def prime (is_it_prime)
 def is_prime?(number)
 #writing pseudocode
   # is it a whole number?  Should return false if a decimal
-  return false if !number.integer? 
+  return false if !number.integer?
   # is it less than two? Should return false
   return false if number < 2
   # should return true if the number is two
@@ -34,6 +34,6 @@ def is_prime?(number)
   # if no number divides it evenly from above, should return true
   true
 end
-  
-  
+
+
   
